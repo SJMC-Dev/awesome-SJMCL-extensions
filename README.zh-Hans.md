@@ -33,7 +33,7 @@ SJMCL 生態擴充的社群精選列表。
 
 ## 整合
 
-- **[Clock](plugins/org.sjmcl.clock/)** — 在啟動器介面展示即時時鐘的簡單範例擴充。
+- **[Clock](org.sjmcl.clock/)** — 在啟動器介面展示即時時鐘的簡單範例擴充。
 
 ## 介面增強
 

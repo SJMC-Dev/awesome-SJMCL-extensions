@@ -34,7 +34,7 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 
 ## Integrations
 
-- **[Clock](plugins/org.sjmcl.clock/)** — A minimal extension that displays a live clock in the launcher UI.
+- **[Clock](org.sjmcl.clock/)** — A minimal extension that displays a live clock in the launcher UI.
 
 ## UI Enhancements
 

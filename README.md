@@ -32,7 +32,7 @@ SJMCL 生态扩展的社区精选列表。
 
 ## 集成
 
-- **[Clock](plugins/org.sjmcl.clock/)** — 在启动器界面展示实时时钟的简单示例扩展。
+- **[Clock](org.sjmcl.clock/)** — 在启动器界面展示实时时钟的简单示例扩展。
 
 ## 界面增强
 

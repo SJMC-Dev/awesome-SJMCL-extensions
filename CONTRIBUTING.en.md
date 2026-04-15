@@ -2,9 +2,104 @@
 
 Languages: English · [简体中文](CONTRIBUTING.md) · [繁體中文](CONTRIBUTING.zh-Hans.md)
 
-Thank you for contributing to SJMCL-extensions.
+Thank you for contributing to awesome-SJMCL-extensions!
 
-This repository is index-only: do not submit full plugin source code here. Only submit plugin index documentation.
+This repository is a plain link list: no plugin source code is hosted here. We only collect links to plugin repositories and a one-line description.
+
+---
+
+## Contents
+
+- [Plugin Repository Requirements](#plugin-repository-requirements)
+- [Entry Format](#entry-format)
+- [Submission Flow](#submission-flow)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Submission Checklist](#submission-checklist)
+- [Review Process](#review-process)
+
+---
+
+## Plugin Repository Requirements
+
+Before submitting to this list, your plugin repository must contain:
+
+- `README.md` — plugin introduction, features, and usage
+
+That is the only hard requirement. Format and structure are up to the plugin author.
+
+You can refer to [org.sjmcl.clock/](org.sjmcl.clock/) as a reference example for plugin manifest and frontend entry format.
+
+---
+
+## Entry Format
+
+Add one line to the correct category in `README.md`:
+
+```markdown
+- **[Plugin Name](https://github.com/your/repo)** — One-line description.
+```
+
+Example:
+
+```markdown
+- **[Clock](https://github.com/example/sjmcl-clock)** — Displays a live clock in the launcher UI.
+```
+
+---
+
+## Submission Flow
+
+1. Fork this repository and create a new branch.
+2. Add one entry line to the correct category in `README.md`, `README.en.md`, and `README.zh-Hans.md`.
+3. Open a Pull Request with a brief title describing the plugin.
+
+> No other files need to be added to this repository.
+
+---
+
+## Acceptance Criteria
+
+- Plugin has a clear relationship with the SJMCL ecosystem
+- Plugin source repository is publicly accessible
+- Plugin source repository contains a `README.md`
+- Plugin is real and usable (not an empty or placeholder repo)
+- No open-source license violations
+- Not a duplicate of an existing entry
+
+---
+
+## Submission Checklist
+
+- [ ] Entry added to all three language README files
+- [ ] Link points to the plugin's source repository (not a subdirectory of this repo)
+- [ ] Plugin source repository contains `README.md`
+- [ ] Description is concise (one sentence)
+- [ ] All template placeholders replaced
+
+---
+
+## Review Process
+
+```
+PR submitted → automated checks (link validity) → manual review → merged or changes requested
+```
+
+Common rejection reasons:
+
+- Source repository link is broken or inaccessible
+- Source repository missing `README.md`
+- Description is too long or unclear
+- Duplicate submission
+
+If you have questions, open an issue in this repository.
+
+---
+
+<div align="center">
+
+Maintained by the SJMCL community
+
+</div>
 
 ---
 
