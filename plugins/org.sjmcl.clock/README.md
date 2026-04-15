@@ -1,5 +1,7 @@
 ﻿# org.sjmcl.clock
 
+语言版本: 简体中文 · [繁體中文](README.zh-Hans.md)
+
 最小可跑通示例插件索引页。
 
 ## 基本信息

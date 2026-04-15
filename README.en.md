@@ -1,18 +1,18 @@
 ﻿<div align="center">
 <img src="banner.png" alt="SJMCL" />
 
-# SJMCL Extension Plugin Index
-### Official Plugin Index Repository for SJMCL Extension
+# SJMCL-extensions Index
+### Official Extension Index Repository for SJMCL
 
 [![SJMCL Main Repo](https://img.shields.io/badge/SJMCL-Main%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/UNIkeEN/SJMCL)
 [![SJMC Website](https://img.shields.io/badge/SJMC-Official%20Website-0ea5e9?style=for-the-badge)](https://mc.sjtu.cn/en/)
 [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-20B2AA?style=for-the-badge)](https://deepwiki.com/UNIkeEN/SJMCL)
-[![Stars](https://img.shields.io/github/stars/SJMCL/SJMCLextension-plugin?style=for-the-badge&logo=github)](https://github.com/SJMCL/SJMCLextension-plugin/stargazers)
+[![Stars](https://img.shields.io/github/stars/SJMC-Dev/awesome-SJMCL-extensions?style=for-the-badge&logo=github)](https://github.com/SJMC-Dev/awesome-SJMCL-extensions)
 [![License](https://img.shields.io/badge/license-MIT-2ea043?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.en.md)
 [![Plugin Count](https://img.shields.io/badge/plugins-1-ff8c00?style=for-the-badge)](#-plugin-directory)
 
-**English · [简体中文](README.md)**
+**English · [简体中文](README.md) · [繁體中文](README.zh-Hans.md)**
 
 </div>
 
@@ -35,7 +35,7 @@ This repository provides a unified, searchable, and review-friendly index so use
 
 ## Contents
 
-- [What Are SJMCL Extension Plugins?](#what-are-sjmcl-extension-plugins)
+- [What Is SJMCL-extensions?](#what-is-sjmcl-extensions)
 - [Plugin Directory](#plugin-directory)
 - [Integrations](#integrations)
 - [UI Enhancements](#ui-enhancements)
@@ -48,9 +48,9 @@ This repository provides a unified, searchable, and review-friendly index so use
 
 ---
 
-## What Are SJMCL Extension Plugins?
+## What Is SJMCL-extensions?
 
-SJMCL Extension Plugins are extension modules built for the SJMCL ecosystem. A standard plugin commonly includes:
+SJMCL-extensions is the extension index for the SJMCL ecosystem. A standard entry commonly includes:
 
 - a manifest file (identifier, name, compatibility)
 - a frontend or functional entry

@@ -1,8 +1,8 @@
 # 贡献指南
 
-English version: [CONTRIBUTING.en.md](CONTRIBUTING.en.md)
+语言版本: [English](CONTRIBUTING.en.md) · 简体中文 · [繁體中文](CONTRIBUTING.zh-Hans.md)
 
-感谢你为 SJMCL Extension 插件生态做出贡献。
+感谢你为 SJMCL-extensions 做出贡献。
 
 本仓库为纯索引模式：不存储插件完整源码，只收录插件索引文档。
 

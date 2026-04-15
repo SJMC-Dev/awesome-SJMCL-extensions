@@ -1,8 +1,8 @@
 # Contributing Guide
 
-中文版本: [CONTRIBUTING.md](CONTRIBUTING.md)
+Languages: English · [简体中文](CONTRIBUTING.md) · [繁體中文](CONTRIBUTING.zh-Hans.md)
 
-Thank you for contributing to the SJMCL Extension plugin ecosystem.
+Thank you for contributing to SJMCL-extensions.
 
 This repository is index-only: do not submit full plugin source code here. Only submit plugin index documentation.
 

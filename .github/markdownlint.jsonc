@@ -1,0 +1,22 @@
+{
+  // markdownlint configuration — minimal ruleset only
+  // https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+
+  // Disable all rules by default, then enable only essentials
+  "default": false,
+
+  // Headings must use ATX style (# Heading), not underline style
+  "MD003": { "style": "atx" },
+
+  // Unordered list markers must be consistent (- everywhere)
+  "MD004": { "style": "dash" },
+
+  // No hard tabs — use spaces
+  "MD010": true,
+
+  // No trailing spaces
+  "MD009": { "br_spaces": 0 },
+
+  // Fenced code blocks must have a language identifier
+  "MD040": true
+}

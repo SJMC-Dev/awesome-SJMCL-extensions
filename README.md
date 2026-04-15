@@ -1,18 +1,18 @@
 ﻿<div align="center">
 <img src="banner.png" alt="SJMCL" />
 
-# SJMCL Extension 插件索引库
-### SJMCL Extension 官方插件索引
+# SJMCL-extensions 索引库
+### SJMCL 官方扩展索引
 
 [![SJMCL 主仓库](https://img.shields.io/badge/SJMCL-Main%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/UNIkeEN/SJMCL)
 [![SJMC 官方网站](https://img.shields.io/badge/SJMC-Official%20Website-0ea5e9?style=for-the-badge)](https://mc.sjtu.cn/)
 [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-20B2AA?style=for-the-badge)](https://deepwiki.com/UNIkeEN/SJMCL)
-[![Stars](https://img.shields.io/github/stars/SJMCL/SJMCLextension-plugin?style=for-the-badge&logo=github)](https://github.com/SJMCL/SJMCLextension-plugin/stargazers)
+[![Stars](https://img.shields.io/github/stars/SJMC-Dev/awesome-SJMCL-extensions?style=for-the-badge&logo=github)](https://github.com/SJMC-Dev/awesome-SJMCL-extensions)
 [![License](https://img.shields.io/badge/license-MIT-2ea043?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-[![Plugin Count](https://img.shields.io/badge/plugins-1-ff8c00?style=for-the-badge)](#-插件目录)
+[![Extension Count](https://img.shields.io/badge/plugins-1-ff8c00?style=for-the-badge)](#-插件目录)
 
-**[English](README.en.md) · 简体中文**
+**[English](README.en.md) · 简体中文 · [繁體中文](README.zh-Hans.md)**
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ## 目录
 
-- [什么是 SJMCL Extension Plugins？](#什么是-sjmcl-extension-plugins)
+- [什么是 SJMCL-extensions？](#什么是-sjmcl-extensions)
 - [插件目录](#插件目录)
 - [集成类 / Integrations](#集成类--integrations)
 - [UI & 界面增强 / UI Enhancements](#ui--界面增强--ui-enhancements)
@@ -48,9 +48,9 @@
 
 ---
 
-## 什么是 SJMCL Extension Plugins？
+## 什么是 SJMCL-extensions？
 
-SJMCL Extension Plugins 是围绕 SJMCL 生态构建的功能扩展单元。一个标准插件通常具备：
+SJMCL-extensions 是面向 SJMCL 生态的扩展索引。一个标准条目通常具备：
 
 - 元信息清单（标识符、名称、版本兼容性）
 - 前端入口或功能入口
