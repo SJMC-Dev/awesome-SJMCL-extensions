@@ -118,7 +118,7 @@ PR 提交 → 自動檢查（連結有效性）→ 人工審核 → 合併或要
 
 建議先從最小示例開始，再提交你的外掛索引：
 
-- 示例索引頁：[plugins/org.sjmcl.clock/README.zh-Hant.md](plugins/org.sjmcl.clock/README.zh-Hant.md)
+- 示例索引頁：[README.md](README.md)
 - 清單檔案：[org.sjmcl.clock/sjmcl.ext.json](org.sjmcl.clock/sjmcl.ext.json)
 - 前端入口：[org.sjmcl.clock/frontend/index.js](org.sjmcl.clock/frontend/index.js)
 
