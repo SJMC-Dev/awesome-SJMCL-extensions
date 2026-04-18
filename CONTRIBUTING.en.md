@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Languages: English · [简体中文](CONTRIBUTING.md) · [繁體中文](CONTRIBUTING.zh-Hans.md)
+Languages: English · [简体中文](CONTRIBUTING.md) · [繁體中文](CONTRIBUTING.zh-Hant.md)
 
 Thank you for contributing to awesome-SJMCL-extensions!
 
@@ -50,7 +50,7 @@ Example:
 ## Submission Flow
 
 1. Fork this repository and create a new branch.
-2. Add one entry line to the correct category in `README.md`, `README.en.md`, and `README.zh-Hans.md`.
+2. Add one entry line to the correct category in `README.md`, `README.en.md`, and `README.zh-Hant.md`.
 3. Open a Pull Request with a brief title describing the plugin.
 
 > No other files need to be added to this repository.

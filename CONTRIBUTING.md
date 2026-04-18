@@ -1,6 +1,6 @@
 # 贡献指南
 
-语言版本: [English](CONTRIBUTING.en.md) · 简体中文 · [繁體中文](CONTRIBUTING.zh-Hans.md)
+语言版本: [English](CONTRIBUTING.en.md) · 简体中文 · [繁體中文](CONTRIBUTING.zh-Hant.md)
 
 感谢你为 awesome-SJMCL-extensions 做出贡献！
 
@@ -50,7 +50,7 @@
 ## 提交流程
 
 1. Fork 本仓库并创建新分支。
-2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的对应分类中各添加一行条目。
+2. 在 `README.md`、`README.en.md`、`README.zh-Hant.md` 的对应分类中各添加一行条目。
 3. 发起 Pull Request，标题简要描述所添加的插件。
 
 > 无需在本仓库中添加任何其他文件。

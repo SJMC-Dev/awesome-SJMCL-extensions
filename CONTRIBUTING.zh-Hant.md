@@ -50,7 +50,7 @@
 ## 提交流程
 
 1. Fork 本倉庫並建立新分支。
-2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的對應分類中各新增一行條目。
+2. 在 `README.md`、`README.en.md`、`README.zh-Hant.md` 的對應分類中各新增一行條目。
 3. 發起 Pull Request，標題簡要描述所新增的外掛。
 
 > 無需在本倉庫中新增任何其他檔案。
@@ -118,7 +118,7 @@ PR 提交 → 自動檢查（連結有效性）→ 人工審核 → 合併或要
 
 建議先從最小示例開始，再提交你的外掛索引：
 
-- 示例索引頁：[plugins/org.sjmcl.clock/README.zh-Hans.md](plugins/org.sjmcl.clock/README.zh-Hans.md)
+- 示例索引頁：[plugins/org.sjmcl.clock/README.zh-Hant.md](plugins/org.sjmcl.clock/README.zh-Hant.md)
 - 清單檔案：[org.sjmcl.clock/sjmcl.ext.json](org.sjmcl.clock/sjmcl.ext.json)
 - 前端入口：[org.sjmcl.clock/frontend/index.js](org.sjmcl.clock/frontend/index.js)
 
