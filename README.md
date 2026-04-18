@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-2ea043?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-**[English](README.en.md) · 简体中文 · [繁體中文](README.zh-Hans.md)**
+**[English](README.en.md) · 简体中文 · [繁體中文](README.zh-Hant.md)**
 
 </div>
 
