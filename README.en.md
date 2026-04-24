@@ -45,7 +45,7 @@ _Nothing here yet. Submit yours!_
 
 ## News & Info
 
-_Nothing here yet. Submit yours!_
+- **[NewsHomepageSJMCLExtension](https://github.com/Light-Beacon/NewsHomepageSJMCLExtension)** — An extension provides latest Minecraft news in Simplified Chinese on SJMCL.
 
 ## Entertainment
 
