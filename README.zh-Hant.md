@@ -43,7 +43,7 @@ _暫無收錄，歡迎提交。_
 
 ## 新聞資訊
 
-- **[NewsHomepageSJMCLExtension](https://github.com/Light-Beacon/NewsHomepageSJMCLExtension)** — 在啟動器中查看 Minecraft 簡體中文資訊的插件。
+_暫無收錄，歡迎提交。_
 
 ## 娛樂
 
