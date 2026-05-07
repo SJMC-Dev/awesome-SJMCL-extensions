@@ -39,6 +39,8 @@ _暫無收錄，歡迎提交。_
 
 ## 生產力工具
 
+- **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)-** — 一個記錄Minecraft遊戲活躍度的日曆插件
+
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一個簡單的 ToDoList 插件。
 
 ## 新聞資訊
