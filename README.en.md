@@ -41,11 +41,13 @@ _Nothing here yet. Submit yours!_
 
 ## Productivity Tools
 
+- **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)-** — A simple calendar extension to track your game streak
+
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — A simple ToDoList plugin.
 
 ## News & Info
 
-- **[NewsHomepageSJMCLExtension](https://github.com/Light-Beacon/NewsHomepageSJMCLExtension)** — An extension provides latest Minecraft news in Simplified Chinese on SJMCL.
+_Nothing here yet. Submit yours!_
 
 ## Entertainment
 
