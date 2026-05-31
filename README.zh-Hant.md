@@ -43,6 +43,7 @@ _暫無收錄，歡迎提交。_
 
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一個記錄 Minecraft 遊戲活躍度的日曆插件
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一個簡單的 ToDoList 插件。
+- **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — 提醒處理 SJMCL 拉取請求的擴展
 
 ## 新聞資訊
 
