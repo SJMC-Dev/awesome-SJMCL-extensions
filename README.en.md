@@ -43,6 +43,7 @@ _Nothing here yet. Submit yours!_
 
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — A simple calendar widget to track your Minecraft activities.
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — A simple ToDoList plugin.
+- **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — A reminder plugin for handling SJMCL pull requests.
 
 ## News & Info
 
