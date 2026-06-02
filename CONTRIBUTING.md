@@ -26,7 +26,7 @@
 ## 提交流程
 
 1. Fork 本仓库并创建新分支。
-2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的对应分类中各添加一行条目。
+2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的对应分类中各添加一行条目。**每个分类内部的条目请按照项目名称的字母顺序排列。**
 
     ```markdown
     - **[插件名称](https://github.com/your/repo)** — 一句话描述。

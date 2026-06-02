@@ -25,7 +25,7 @@
 ## 提交流程
 
 1. Fork 本倉庫並建立新分支。
-2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的對應分類中各新增一行條目。
+2. 在 `README.md`、`README.en.md`、`README.zh-Hans.md` 的對應分類中各新增一行條目。**每個分類內部的條目請按照專案名稱的字母順序排列。**
 
     ```markdown
     - **[外掛名稱](https://github.com/your/repo)** — 一句話描述。

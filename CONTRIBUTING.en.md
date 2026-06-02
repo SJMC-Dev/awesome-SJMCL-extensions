@@ -25,7 +25,7 @@ These are the only hard requirements. The exact format and structure are up to t
 ## Submission Flow
 
 1. Fork this repository and create a new branch.
-2. Add one entry to the corresponding category in `README.md`, `README.en.md`, and `README.zh-Hans.md`.
+2. Add one entry to the corresponding category in `README.md`, `README.en.md`, and `README.zh-Hans.md`. **Entries within each category should be sorted alphabetically by project name.**
 
     ```markdown
     - **[Plugin Name](https://github.com/your/repo)** — One-line description.
