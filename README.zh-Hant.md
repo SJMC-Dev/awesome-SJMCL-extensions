@@ -52,6 +52,7 @@ _暫無收錄，歡迎提交。_
 ## 娛樂
 
 - **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — 在啟動器主頁顯示每日 Minecraft 迷因的擴展
+- **[隨機豬豬 PigHub](https://github.com/bowenxiao751-svg/sjmcl-pighub-random)** — 從 PigHub 獲取隨機可愛豬豬圖片，支援首頁卡片、全屏畫廊與自動輪播。
 
 ## AI
 

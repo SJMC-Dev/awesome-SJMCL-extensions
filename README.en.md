@@ -52,6 +52,7 @@ _Nothing here yet. Submit yours!_
 ## Entertainment
 
 - **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — A daily Minecraft meme on your SJMCL home screen.
+- **[PigHub Random Pig](https://github.com/bowenxiao751-svg/sjmcl-pighub-random)** — Display random cute pig images from PigHub with home widget, gallery page, and auto-rotate.
 
 ## AI
 
