@@ -37,10 +37,13 @@
 
 ## 界面增强
 
-_暂无收录，欢迎提交。_
+- **[Auto Titlebar](https://github.com/YoshinoHdq/sjmcl-auto-titlebar)** — 鼠标悬停时显示标题栏，移出时自动隐藏。
+- **[Launcher Theme Enhancer](https://github.com/YoshinoHdq/sjmcl-launcher-theme-enhancer)** — 整合城市天气、动态背景和粒子特效为一体的一站式启动器美化扩展。
 
 ## 生产力工具
 
+- **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — 分析 Minecraft 错误日志，识别常见问题并提供解决建议。
+- **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — 功能比较简单的小记事本。
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — 提醒处理 SJMCL 拉取请求的扩展
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一个记录 Minecraft 游戏活跃度的日历扩展
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一个简单的 ToDoList 扩展
@@ -52,7 +55,9 @@ _暂无收录，欢迎提交。_
 ## 娱乐
 
 - **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — 在启动器主页显示每日 Minecraft 迷因的扩展
+- **[MC Daylight](https://github.com/YoshinoHdq/SJMCL-MC_Daylight)** — 实时显示 Minecraft 服务器时间与昼夜状态。
 - **[PigHub Random Pig](https://github.com/bowenxiao751-svg/sjmcl-pighub-random)** — 从 PigHub 获取随机可爱猪猪图片，支持首页卡片、全屏画廊与自动轮播。
+- **[TrophyCraft](https://github.com/YoshinoHdq/SJMCL-TrophyCraft)** — 在启动器中收集成就，分析你的启动器使用人格。
 
 ## AI
 
@@ -60,7 +65,10 @@ _暂无收录，欢迎提交。_
 
 ## 其他
 
+- **[Footprints](https://github.com/YoshinoHdq/SJMCL-Footprints)** — 自动保存已删除的实例为纪念卡片，在首页展示。
 - **[McMSF 浆果服服务器](https://github.com/Vxiaolong666/mcmsf-SJMC)** — 开放的 Minecraft 服务器宣传平台，支持在启动器中浏览、筛选和连接 MCMSF 平台上的各类 Minecraft 服务器
+- **[Server Sentinel](https://github.com/YoshinoHdq/sjmcl-server-monitor)** — Minecraft 服务器监控面板 - 实时查看在线人数、延迟、TPS 与状态。
+- **[SJMC SMP2 卫星地图](https://github.com/YoshinoHdq/sjmcl-satellite-map)** — 在启动器中查看 SJMC SMP2 服务器的实时卫星地图，支持多维度切换与 2D/3D 视图。
 
 ---
 
