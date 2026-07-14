@@ -42,6 +42,7 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 
 ## Productivity Tools
 
+- **[Litematic Viewer](https://github.com/zaixiZaixiSJTU/Litematic_viewer)** — Locally parse and interactively preview Litematica schematics in SJMCL.
 - **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — Analyze Minecraft error logs, identify common issues and provide solutions.
 - **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — A simple notepad extension for SJMCL.
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — A reminder extension for handling SJMCL pull requests.
