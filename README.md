@@ -39,6 +39,7 @@
 
 - **[Auto Titlebar](https://github.com/YoshinoHdq/sjmcl-auto-titlebar)** — 鼠标悬停时显示标题栏，移出时自动隐藏。
 - **[Launcher Theme Enhancer](https://github.com/YoshinoHdq/sjmcl-launcher-theme-enhancer)** — 整合城市天气、动态背景和粒子特效为一体的一站式启动器美化扩展。
+- **[sjmcl-skin-widget](https://github.com/66CF/sjmcl-skin-widget)** — 在启动器首页展示跟随鼠标的当前角色 3D 皮肤与披风，支持可关闭的一言和打字机动画。
 
 ## 生产力工具
 

@@ -39,6 +39,7 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 
 - **[Auto Titlebar](https://github.com/YoshinoHdq/sjmcl-auto-titlebar)** — Auto-hide the titlebar, show on hover.
 - **[Launcher Theme Enhancer](https://github.com/YoshinoHdq/sjmcl-launcher-theme-enhancer)** — Integrates City Weather, Dynamic Background, and Weather Particle Effects into one comprehensive launcher enhancement plugin.
+- **[sjmcl-skin-widget](https://github.com/66CF/sjmcl-skin-widget)** — Display the selected player’s 3D skin and cape with mouse tracking on the launcher home page, with optional Hitokoto quotes and typewriter animations.
 
 ## Productivity Tools
 
