@@ -59,6 +59,7 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 - **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — A daily Minecraft meme on your SJMCL home screen.
 - **[MC Daylight](https://github.com/YoshinoHdq/SJMCL-MC_Daylight)** — Display real-time Minecraft server time, moon phases and day/night cycle on the home page.
 - **[PigHub Random Pig](https://github.com/bowenxiao751-svg/sjmcl-pighub-random)** — Display random cute pig images from PigHub with home widget, gallery page, and auto-rotate.
+- **[SJMCL Desktop Pet](https://github.com/DAYOREAM-temp/SJMCL.DesktopPet)** — Displays a transparent Windows desktop pet with locally importable frame-animation packs.
 - **[TrophyCraft](https://github.com/YoshinoHdq/SJMCL-TrophyCraft)** — Track launcher usage habits and unlock achievement milestones.
 
 ## AI
