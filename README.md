@@ -59,6 +59,7 @@
 - **[Daily Meme](https://github.com/zaixiZaixiSJTU/Dailymeme)** — 在启动器主页显示每日 Minecraft 迷因的扩展
 - **[MC Daylight](https://github.com/YoshinoHdq/SJMCL-MC_Daylight)** — 实时显示 Minecraft 服务器时间与昼夜状态。
 - **[PigHub Random Pig](https://github.com/bowenxiao751-svg/sjmcl-pighub-random)** — 从 PigHub 获取随机可爱猪猪图片，支持首页卡片、全屏画廊与自动轮播。
+- **[SJMCL Desktop Pet](https://github.com/DAYOREAM-temp/SJMCL.DesktopPet)** — 在 Windows 桌面显示可导入本地序列帧资源包的透明悬浮桌宠。
 - **[TrophyCraft](https://github.com/YoshinoHdq/SJMCL-TrophyCraft)** — 在启动器中收集成就，分析你的启动器使用人格。
 
 ## AI
