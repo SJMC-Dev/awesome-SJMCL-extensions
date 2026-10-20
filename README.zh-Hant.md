@@ -46,6 +46,7 @@
 - **[Litematic Viewer](https://github.com/zaixiZaixiSJTU/Litematic_viewer)** — 在 SJMCL 中本機解析並互動式預覽 Litematica 原理圖。
 - **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — 分析 Minecraft 錯誤日誌，識別常見問題並提供解決建議。
 - **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — 功能比較簡單的小記事本。
+- **[SJMCL ConfigMigrator](https://github.com/DAYOREAM-temp/SJMCL.ConfigMigrator)** — 預覽並遷移 PCL2 / PCL-CE 的全域與實例專屬設定至 SJMCL，支援新增第三方驗證伺服器。
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — 提醒處理 SJMCL 拉取請求的擴展
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — 一個記錄 Minecraft 遊戲活躍度的日曆擴展
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — 一個簡單的 ToDoList 擴展
