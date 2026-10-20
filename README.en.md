@@ -46,6 +46,7 @@ Contributions are welcome. Please read [CONTRIBUTING.en.md](CONTRIBUTING.en.md) 
 - **[Litematic Viewer](https://github.com/zaixiZaixiSJTU/Litematic_viewer)** — Locally parse and interactively preview Litematica schematics in SJMCL.
 - **[Log Probe](https://github.com/YoshinoHdq/sjmcl-log-probe)** — Analyze Minecraft error logs, identify common issues and provide solutions.
 - **[MineNote](https://github.com/YoshinoHdq/SJMCL-MineNotes)** — A simple notepad extension for SJMCL.
+- **[SJMCL ConfigMigrator](https://github.com/DAYOREAM-temp/SJMCL.ConfigMigrator)** — Preview and migrate PCL2 / PCL-CE global and instance-specific settings to SJMCL, with support for adding third-party authentication servers.
 - **[SJMCL Pull Request Reminder](https://github.com/sdfwss/sjmcl-pullrequest-reminder)** — A reminder extension for handling SJMCL pull requests.
 - **[Streak Calendar](https://github.com/Chang-Yo/StreakCalendar)** — A simple calendar widget to track your Minecraft activities.
 - **[ToDo-List](https://github.com/Hongbro886/ToDo-List)** — A simple ToDoList extension.
